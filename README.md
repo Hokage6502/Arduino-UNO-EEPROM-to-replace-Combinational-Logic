@@ -1,4 +1,9 @@
 # Arduino-UNO-EEPROM-to-replace-Combinational-Logic
+
+https://www.youtube.com/watch?v=A-zki-0Wbxc&ab_channel=ArpitGarg
+
+https://youtu.be/A-zki-0Wbxc
+
 We replace any combinational logic circuit by programming the truth table into a ROM and the data bits.
 
 Logic gates can be utilized to implement complex logic functions in a circuit, but doing all the necessary calculations can be a tedious and time-consuming process. However, memory chips can serve as a simple alternative because they can also be used to represent logic functions.
